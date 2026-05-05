@@ -1,7 +1,7 @@
 ## Grup Bilgisi
 
 - Grup No: 2
-- Grup Üyeleri:Cem GEDİKOĞLU , Çağrı KAÇMAZ , İlknur AKSARAY , Yusuf KUTLU
+- Grup Üyeleri:Cem GEDİKOĞLU , Çağrı KAÇMAZ , İlknur AKSARAY , Yusuf KUTLU .
 
 # Dijital Kaşif - Team 2 OS & ComNets Mobile Project
 

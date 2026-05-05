@@ -1,59 +1,64 @@
-## Grup Bilgisi
-
-- Grup No: 2
-- Grup Üyeleri:Cem GEDİKOĞLU , Çağrı KAÇMAZ , İlknur AKSARAY , Yusuf KUTLU 
-
 # Dijital Kaşif - Team 2 OS & ComNets Mobile Project
 
-Bu proje, ortaokul öğrencilerine yönelik Duolingo tarzında hazırlanmış bir mobil öğrenme uygulamasıdır. Uygulamada önce kısa konu anlatımı, günlük hayat benzetmeleri ve mini görevler verilir; ardından ilgili konuya ait çoktan seçmeli sorular gelir.
+## Group Information
 
-## Ders ve Konu Eşleştirmesi
+**Group No:** 2
 
-- **Computer Networks / Bilgisayar Ağları:** Cybersecurity / Siber Güvenlik
-- **Operating Systems / İşletim Sistemleri:** File-System Interface / Dosya Sistemi
+**Team Members:**
 
-## Hedef Kitle
+- Cem GEDİKOĞLU
+- Çağrı KAÇMAZ
+- İlknur AKSARAY
+- Yusuf KUTLU
 
-Ortaokul öğrencileri.
+## Project Overview
 
-## Uygulama Özellikleri
+Dijital Kaşif is a mobile learning application designed for middle school students. The application introduces basic computer science concepts through short explanations, real-life examples, mini tasks, and quiz questions.
 
-- İki ayrı öğrenme görevi
-- Konu anlatımı kartları
-- Günlük hayat benzetmeleri
-- Mini görev senaryoları
-- Çoktan seçmeli quiz ekranı
-- Anlık doğru/yanlış geri bildirimi
-- Puan ve genel ilerleme ekranı
-- Mobil uyumlu sade arayüz
+The main goal of the project is to make technical topics easier to understand for younger learners. Instead of starting directly with questions, the app first presents the topic in a simple and structured way. After the learning part, students answer multiple-choice questions related to the content.
 
-## Kullanılan Teknolojiler
+## Course and Topic Mapping
+
+This project combines one topic from each course:
+
+- **Computer Networks:** Cybersecurity
+- **Operating Systems:** File-System Interface
+
+## Target Audience
+
+The application is designed for middle school students who are learning basic digital literacy and computer science concepts.
+
+## Learning Approach
+
+The app follows a simple learning flow:
+
+1. The student selects a learning topic.
+2. A short explanation introduces the main concept.
+3. A real-life example helps the student connect the topic with daily life.
+4. A mini task encourages the student to think about the concept.
+5. Quiz questions check the student’s understanding.
+6. The result screen shows the score and progress.
+
+## Application Features
+
+- Two different learning modules
+- Topic explanation cards
+- Real-life examples
+- Mini task scenarios
+- Multiple-choice quiz questions
+- Instant correct/incorrect feedback
+- Score and progress screen
+- Simple and mobile-friendly interface
+- Beginner-friendly content for younger students
+
+## Technologies Used
 
 - React Native
 - Expo
 - JavaScript
+- GitHub
 
-## Kurulum ve Çalıştırma
-
-Bilgisayarınızda Node.js kurulu olmalıdır.
-
-1. Proje klasörünü açın.
-2. Terminal / Komut İstemi içinde proje klasörüne girin.
-3. Aşağıdaki komutu çalıştırın:
-
-```bash
-npm install
-```
-
-4. Uygulamayı başlatın:
-
-```bash
-npm start
-```
-
-5. Telefonda **Expo Go** uygulamasıyla çıkan QR kodu okutun.
-
-## Dosya Yapısı
+## Project Structure
 
 ```text
 Team2_OS_ComNets/
@@ -64,10 +69,3 @@ Team2_OS_ComNets/
 ├── .gitignore
 └── data/
     └── lessons.js
-```
-
-
-
-## Teslim Notu
-
-Hocanın yönergesine göre GitHub repository linki raporda belirtilmeli ve Group Info Excel Sheet dosyasına eklenmelidir. ZIP dosyası ders yönergesinde istenen isimlendirme kuralına uygun şekilde yüklenmelidir.

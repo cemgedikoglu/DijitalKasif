@@ -1,3 +1,8 @@
+## Grup Bilgisi
+
+- Grup No: 2
+- Grup Üyeleri:Cem GEDİKOĞLU , Çağrı Kaçmaz , İlknur AKSARAY , Yusuf KUTLU
+
 # Dijital Kaşif - Team 2 OS & ComNets Mobile Project
 
 Bu proje, ortaokul öğrencilerine yönelik Duolingo tarzında hazırlanmış bir mobil öğrenme uygulamasıdır. Uygulamada önce kısa konu anlatımı, günlük hayat benzetmeleri ve mini görevler verilir; ardından ilgili konuya ait çoktan seçmeli sorular gelir.
@@ -61,10 +66,7 @@ Team2_OS_ComNets/
     └── lessons.js
 ```
 
-## Grup Bilgisi
 
-- Grup No: 2
-- Grup Üyeleri: Rapor kapağına ve/veya rapor başlığına eklenecektir.
 
 ## Teslim Notu
 

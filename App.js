@@ -1,6 +1,7 @@
 import React, { useMemo, useRef, useState } from "react";
 import {
   Animated,
+  Image,
   Pressable,
   SafeAreaView,
   ScrollView,
@@ -103,7 +104,7 @@ export default function App() {
       <AppShell>
         <ScrollView contentContainerStyle={styles.scrollContent}>
           <View style={styles.hero}>
-            <Text style={styles.appIcon}>🚀</Text>
+            <Image source={require("./assets/logo.png")} style={styles.logoImage} />
             <Text style={styles.appTitle}>LearNexus</Text>
             <Text style={styles.appSubtitle}>
               Ortaokul öğrencileri için Bilgisayar Ağları ve İşletim Sistemleri konularını oyunlaştırılmış biçimde öğrenme uygulaması.
@@ -339,6 +340,12 @@ function SecondaryButton({ title, onPress }) {
 }
 
 const styles = StyleSheet.create({
+  logoImage: {
+  width: 240,
+  height: 240,
+  resizeMode: "contain",
+  marginBottom: 10,
+},
   safeArea: {
     flex: 1,
     backgroundColor: "#F8FAFC"

@@ -1,46 +1,69 @@
-LearNexus Mobile Learning Application
+# LearNexus Mobile Learning Application
 
 LearNexus is a mobile educational application developed to help middle school students learn the fundamentals of Operating Systems and Computer Networks.
 
-Project Team (Group 2)
-Cem GEDİKOĞLU
-Çağrı KAÇMAZ
-İlknur AKSARAY
-Yusuf KUTLU
+## Project Team
 
-About the Project
-This project focuses on simplifying complex computer science concepts for middle school-aged students. The specific topics covered in the project are:
+**Group 2**
+
+- Cem GEDİKOĞLU
+- Çağrı KAÇMAZ
+- İlknur AKSARAY
+- Yusuf KUTLU
+
+## About the Project
+
+This project focuses on simplifying complex computer science concepts for middle school students. The application presents selected topics with short explanations, real-life examples, mini tasks, and quiz questions.
+
+The specific topics covered in the project are:
 
 | Course | Topic |
 |---|---|
 | Computer Networks | Cybersecurity |
 | Operating Systems | File-System Interface |
 
+## Application Workflow
 
+The learning process is designed with a structured flow:
 
+1. **Topic Selection:** Users choose the subject they want to study.
+2. **Theoretical Instruction:** The app provides short and clear explanations of core concepts.
+3. **Real-Life Examples:** Technical concepts are connected with everyday scenarios.
+4. **Conceptual Mini-Tasks:** Small tasks help students think about the topic.
+5. **Assessment Quiz:** Interactive questions are used to check understanding.
+6. **Instant Feedback and Score Screen:** Students receive feedback and see their final score.
 
- Application Workflow
- 
-The learning process is designed with a structured pedagogical flow:
+## Demo Screenshots
 
-Topic Selection: Users choose their desired subject from the curriculum.
+The following screenshots show the main screens and learning flow of the LearNexus application.
 
-Theoretical Instruction: Concise and clear explanations of core concepts.
+### Main Screen
 
-Real-Life Examples: Relating technical concepts to everyday scenarios for better retention.
+![Main Screen](screenshots/mainscreen.png)
 
-Conceptual Mini-Tasks: Hands-on activities to reinforce understanding.
+### Cybersecurity Module
 
-Assessment Quiz: Interactive tests to evaluate the student's progress.
+![Cybersecurity Module](screenshots/cybersecuritymodule.png)
 
-Instant Feedback & Score Screen: Real-time performance analysis and achievement tracking.
+### File-System Module
 
+![File-System Module](screenshots/filesystemmodule.png)
 
+### Quiz Screen
 
+![Quiz Screen](screenshots/quizscreen.png)
 
+### Result Screen
 
-Kullanılan Teknolojiler 
-* React Native
- * Expo 
-* JavaScript
- * GitHub (Versiyon Kontrol) 
+![Result Screen](screenshots/resultscreen.png)
+
+## Technologies Used
+
+- React Native
+- Expo
+- JavaScript
+- GitHub for version control
+
+## Future Improvements
+
+In future versions, the application can be improved with more learning modules, simple animations, user progress tracking, badges, different difficulty levels, and more interactive mini tasks.

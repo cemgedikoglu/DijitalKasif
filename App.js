@@ -104,7 +104,7 @@ export default function App() {
         <ScrollView contentContainerStyle={styles.scrollContent}>
           <View style={styles.hero}>
             <Text style={styles.appIcon}>🚀</Text>
-            <Text style={styles.appTitle}>Dijital Kaşif</Text>
+            <Text style={styles.appTitle}>LearNexus</Text>
             <Text style={styles.appSubtitle}>
               Ortaokul öğrencileri için Bilgisayar Ağları ve İşletim Sistemleri konularını oyunlaştırılmış biçimde öğrenme uygulaması.
             </Text>

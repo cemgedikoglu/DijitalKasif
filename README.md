@@ -1,4 +1,4 @@
-# Dijital Kaşif
+# LearNexus
 
 ## Team Information
 

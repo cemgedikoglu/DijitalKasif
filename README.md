@@ -39,23 +39,23 @@ The following screenshots show the main screens and learning flow of the LearNex
 
 ### Main Screen
 
-![Main Screen](screenshots/mainscreen.png)
+![Main Screen](screenshots/mainscreen.png.jpg)
 
 ### Cybersecurity Module
 
-![Cybersecurity Module](screenshots/cybersecuritymodule.png)
+![Cybersecurity Module](screenshots/cybersecuritymodule.png.jpg)
 
 ### File-System Module
 
-![File-System Module](screenshots/filesystemmodule.png)
+![File-System Module](screenshots/filesystemmodule.png.jpg)
 
 ### Quiz Screen
 
-![Quiz Screen](screenshots/quizscreen.png)
+![Quiz Screen](screenshots/quizscreen.png.jpg)
 
 ### Result Screen
 
-![Result Screen](screenshots/resultscreen.png)
+![Result Screen](screenshots/resultscreen.png.jpg)
 
 ## Technologies Used
 

@@ -8,7 +8,7 @@ export const lessons = [
     color: "#4F46E5",
     softColor: "#EEF2FF",
     storyTitle: "Okul ağına güvenli giriş",
-    level: "Ortaokul",
+    level: "5. ve 6. sınıf",
     objective:
       "Öğrencilerin güçlü şifre, güvenli bağlantı, kimlik avı ve veri güvenliği kavramlarını öğrenmesi.",
     cards: [
@@ -44,7 +44,7 @@ export const lessons = [
     mission: {
       title: "Mini görev",
       text:
-        "Bir arkadaşın sana 'bedava oyun hediyesi' yazan bir link gönderdi. Link senden kullanıcı adı ve şifre istiyor. Ne yaparsın?",
+        "Bir arkadaşın sana 'bedava oyun ' yazan bir link gönderdi. Link senden kullanıcı adı ve şifre istiyor. Ne yaparsın?",
       correctAction:
         "Linke tıklamadan önce kaynağı kontrol eder, güvenilir değilse bilgilerini girmezsin."
     },

@@ -7,7 +7,7 @@ LearNexus is a mobile educational application developed to help middle school st
 **Group 2**
 
 - Cem GEDİKOĞLU-22091037
-- Çağrı KAÇMAZ
+- Çağrı KAÇMAZ-22091016
 - İlknur AKSARAY-20091001
 - Yusuf KUTLU-22091017
 

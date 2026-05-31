@@ -33,29 +33,9 @@ The learning process is designed with a structured flow:
 5. **Assessment Quiz:** Interactive questions are used to check understanding.
 6. **Instant Feedback and Score Screen:** Students receive feedback and see their final score.
 
-## Demo Screenshots
+## Screen Recording
 
-The following screenshots show the main screens and learning flow of the LearNexus application.
-
-### Main Screen
-
-![Main Screen](screenshots/mainscreen.png.jpg)
-
-### Cybersecurity Module
-
-![Cybersecurity Module](screenshots/cybersecuritymodule.png.jpg)
-
-### File-System Module
-
-![File-System Module](screenshots/filesystemmodule.png.jpg)
-
-### Quiz Screen
-
-![Quiz Screen](screenshots/quizscreen.png.jpg)
-
-### Result Screen
-
-![Result Screen](screenshots/resultscreen.png.jpg)
+The screen recording below demonstrates the mobile version of the LearNexus application running on a real device.
 
 ## Technologies Used
 

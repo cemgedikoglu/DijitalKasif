@@ -6,10 +6,10 @@ LearNexus is a mobile educational application developed to help middle school st
 
 **Group 2**
 
-- Cem GEDİKOĞLU-22091037
-- Çağrı KAÇMAZ-22091016
-- İlknur AKSARAY-20091001
-- Yusuf KUTLU-22091017
+- Cem GEDİKOĞLU - 22091037
+- Çağrı KAÇMAZ - 22091016
+- İlknur AKSARAY - 20091001
+- Yusuf KUTLU - 22091017
 
 ## About the Project
 
@@ -36,6 +36,8 @@ The learning process is designed with a structured flow:
 ## Screen Recording
 
 The screen recording below demonstrates the mobile version of the LearNexus application running on a real device.
+
+[Watch the mobile app screen recording](https://drive.google.com/file/d/1Z_APXv2H7FtD6xsmXkMIlZ_sGZctNAng/view?usp=drive_link)
 
 ## Technologies Used
 

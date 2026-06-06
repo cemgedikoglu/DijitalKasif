@@ -19,8 +19,8 @@ The specific topics covered in the project are:
 
 | Course | Topic |
 |---|---|
-| Computer Networks | Cybersecurity |
-| Operating Systems | File-System Interface |
+| Computer Networks | Siber Güvenlik |
+| Operating Systems | Dosya Sistemi Arayüzü |
 
 ## Application Workflow
 

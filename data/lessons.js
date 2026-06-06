@@ -1,9 +1,9 @@
 export const lessons = [
   {
     id: "security",
-    shortTitle: "Ağ Güvenliği",
+    shortTitle: "Siber Güvenlik",
     title: "Bilgisayar Ağları: Siber Güvenlik",
-    course: "Computer Networks - Cybersecurity",
+    course: "Bilgisayar Ağları",
     icon: "🛡️",
     color: "#4F46E5",
     softColor: "#EEF2FF",
@@ -44,7 +44,7 @@ export const lessons = [
     mission: {
       title: "Mini görev",
       text:
-        "Bir arkadaşın sana 'bedava oyun ' yazan bir link gönderdi. Link senden kullanıcı adı ve şifre istiyor. Ne yaparsın?",
+        "Bir arkadaşın sana 'bedava oyun' yazan bir link gönderdi. Link senden kullanıcı adı ve şifre istiyor. Ne yaparsın?",
       correctAction:
         "Linke tıklamadan önce kaynağı kontrol eder, güvenilir değilse bilgilerini girmezsin."
     },
@@ -96,23 +96,23 @@ export const lessons = [
   },
   {
     id: "filesystem",
-    shortTitle: "Dosya Sistemi",
-    title: "İşletim Sistemleri: Dosya Sistemi",
-    course: "Operating Systems - File-System Interface",
+    shortTitle: "Dosya Sistemi Arayüzü",
+    title: "İşletim Sistemleri: Dosya Sistemi Arayüzü",
+    course: "İşletim Sistemleri",
     icon: "📁",
     color: "#0EA5E9",
     softColor: "#E0F2FE",
     storyTitle: "Dijital dolabını düzenle",
     level: "Ortaokul",
     objective:
-      "Öğrencilerin dosya, klasör, dosya uzantısı, dosya yolu ve işletim sisteminin düzenleme görevini kavraması.",
+      "Öğrencilerin dosya, klasör, dosya uzantısı, dosya yolu ve işletim sisteminin dosya yönetimi görevini kavraması.",
     cards: [
       {
-        heading: "Dosya sistemi nedir?",
+        heading: "Dosya sistemi arayüzü nedir?",
         body:
-          "Dosya sistemi, işletim sisteminin dosyaları kaydetmek, bulmak, düzenlemek ve silmek için kullandığı yapıdır.",
+          "Dosya sistemi arayüzü, kullanıcıların dosyaları ve klasörleri görüntülemesini, düzenlemesini, taşımasını, kaydetmesini ve silmesini sağlayan bölümdür.",
         analogy:
-          "Bir kütüphanede kitapların raflara göre düzenlenmesi gibi, bilgisayarda dosyalar da belli bir düzene göre saklanır."
+          "Bir okul dolabını düzenlemek gibi düşünebilirsin. Defterleri ve kitapları nereye koyacağını bilmek, onları daha kolay bulmanı sağlar."
       },
       {
         heading: "Dosya ve klasör farkı",
@@ -145,16 +145,16 @@ export const lessons = [
     },
     quiz: [
       {
-        question: "Dosya sisteminin görevi aşağıdakilerden hangisidir?",
+        question: "Dosya sistemi arayüzü kullanıcıya ne sağlar?",
         options: [
-          "Dosyaları düzenli biçimde saklamak ve bulmak",
-          "Ekranı sürekli kapatmak",
-          "İnterneti hızlandırmak",
-          "Klavyenin rengini değiştirmek"
+          "Dosya ve klasörleri yönetmeyi",
+          "Ekranı sürekli kapatmayı",
+          "İnternet hızını otomatik artırmayı",
+          "Bilgisayarın rengini değiştirmeyi"
         ],
         answerIndex: 0,
         feedback:
-          "Doğru. Dosya sistemi dosyaların saklanmasını, bulunmasını ve düzenlenmesini sağlar."
+          "Doğru. Dosya sistemi arayüzü dosya ve klasörleri görüntüleme, düzenleme ve yönetme olanağı sağlar."
       },
       {
         question: "Klasör ne işe yarar?",

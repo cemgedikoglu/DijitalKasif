@@ -3,7 +3,7 @@
     "name": "LearNexus",
     "slug": "team2-os-comnets",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "userInterfaceStyle": "light",
     "assetBundlePatterns": [
       "**/*"

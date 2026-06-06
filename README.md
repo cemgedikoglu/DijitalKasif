@@ -13,39 +13,80 @@ LearNexus is a mobile educational application developed to help middle school st
 
 ## About the Project
 
-This project focuses on simplifying complex computer science concepts for middle school students. The application presents selected topics with short explanations, real-life examples, mini tasks, and quiz questions.
+This project focuses on simplifying complex computer science concepts for middle school students. The application presents selected topics with short explanations, real-life examples, mini tasks, quiz questions, instant feedback, profile tracking, badges, and progress screens.
 
-The specific topics covered in the project are:
+The project was developed as a mobile learning application and tested on a real iPhone device using Expo Go.
 
-| Course | Topic |
-|---|---|
-| Computer Networks | Siber Güvenlik |
-| Operating Systems | Dosya Sistemi Arayüzü |
+## Course Topics
+
+| Course | English Topic Name | Topic Used in the App |
+|---|---|---|
+| Computer Networks | Cybersecurity | Siber Güvenlik |
+| Operating Systems | File-System Interface | Dosya Sistemi Arayüzü |
 
 ## Application Workflow
 
 The learning process is designed with a structured flow:
 
-1. **Topic Selection:** Users choose the subject they want to study.
-2. **Theoretical Instruction:** The app provides short and clear explanations of core concepts.
-3. **Real-Life Examples:** Technical concepts are connected with everyday scenarios.
-4. **Conceptual Mini-Tasks:** Small tasks help students think about the topic.
-5. **Assessment Quiz:** Interactive questions are used to check understanding.
-6. **Instant Feedback and Score Screen:** Students receive feedback and see their final score.
+1. **Login and Register:** Users can enter the application through login and register screens.
+2. **Topic Selection:** Users choose the subject they want to study.
+3. **Theoretical Instruction:** The app provides short and clear explanations of core concepts.
+4. **Real-Life Examples:** Technical concepts are connected with everyday scenarios.
+5. **Conceptual Mini-Tasks:** Small tasks help students think about the topic.
+6. **Assessment Quiz:** Interactive questions are used to check understanding.
+7. **Instant Feedback and Score Screen:** Students receive feedback and see their final score.
+8. **Profile and Badges:** Users can view their profile, progress, and earned badges.
 
-## Screen Recording
+## Main Features
 
-The screen recording below demonstrates the mobile version of the LearNexus application running on a real device.
+- Login screen
+- Register screen
+- Side menu
+- Profile screen
+- Badges screen
+- Exit button
+- Mobile learning modules
+- Quiz and instant feedback
+- Score and progress tracking
+- Portrait and landscape screen support
+- Turkish topic names inside the application
 
-[Watch the mobile app screen recording](https://drive.google.com/file/d/1Z_APXv2H7FtD6xsmXkMIlZ_sGZctNAng/view?usp=drive_link)
+## Promotional Video
+
+The video below presents the final mobile version of the LearNexus application. It demonstrates the login and register screens, learning modules, side menu, profile page, badges section, quiz flow, instant feedback, score screen, and portrait/landscape support on a real iPhone device.
+
+[Watch the promotional video](https://drive.google.com/file/d/1mEOLP_ZhbSZsaX5AvIFu4BuZIVReO9XB/view?usp=drive_link)
+
+## Development Process
+
+During the development process, all four group members participated in an online meeting through Google Meet. The project was implemented on a single computer to keep the development environment stable and avoid version conflicts.
+
+Although the coding process was carried out on one computer, all group members contributed equally to the project. The group discussed the application structure, selected course topics, user interface decisions, learning flow, quiz content, feedback improvements, and final testing process together.
+
+Based on the project feedback, the application was improved by adding login and register screens, a side menu, profile and badges sections, an exit button, portrait and landscape screen support, and fully Turkish topic names inside the application.
 
 ## Technologies Used
 
 - React Native
-- Expo
+- Expo SDK 54
 - JavaScript
 - GitHub for version control
+- Visual Studio Code
+
+## How to Run
+
+First, install the required dependencies:
+
+`npm install`
+
+Then start the project with Expo:
+
+`npx expo start -c`
+
+After the QR code appears in the terminal, scan it with the Expo Go application on a mobile device.
+
+The project was tested with Expo SDK 54 and Expo Go on iPhone.
 
 ## Future Improvements
 
-In future versions, the application can be improved with more learning modules, simple animations, user progress tracking, badges, different difficulty levels, and more interactive mini tasks.
+In future versions, the application can be improved with more learning modules, simple animations, user progress storage, more detailed badge logic, different difficulty levels, and more interactive mini tasks.

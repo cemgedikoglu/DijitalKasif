@@ -57,6 +57,10 @@ The video below presents the final mobile version of the LearNexus application. 
 
 [Watch the promotional video](https://drive.google.com/file/d/1mEOLP_ZhbSZsaX5AvIFu4BuZIVReO9XB/view?usp=drive_link)
 
+## Repository Link
+
+[GitHub Repository](https://github.com/cemgedikoglu/LearNexus)
+
 ## Development Process
 
 During the development process, all four group members participated in an online meeting through Google Meet. The project was implemented on a single computer to keep the development environment stable and avoid version conflicts.

@@ -396,7 +396,7 @@ export default function App() {
             <Text style={styles.infoTitle}>Proje kapsamı</Text>
             <Text style={styles.infoText}>• Bilgisayar Ağları: Siber Güvenlik</Text>
             <Text style={styles.infoText}>• İşletim Sistemleri: Dosya Sistemi Arayüzü</Text>
-            <Text style={styles.infoText}>• Hedef kitle: Ortaokul öğrencileri</Text>
+            <Text style={styles.infoText}>• Hedef kitle : Ortaokul öğrencileri</Text>
           </View>
         </ScrollView>
       </AppShell>
@@ -634,7 +634,7 @@ export default function App() {
 
           {isAnswered && (
             <PrimaryButton
-              title={questionIndex < totalQuestions - 1 ? "Sonraki soru" : "Sonucu gör"}
+              title={questionIndex < totalQuestions - 1 ? "Sonraki soru" : "Sonucunu gör"}
               color={selectedLesson.color}
               onPress={nextQuestion}
             />
@@ -646,7 +646,7 @@ export default function App() {
 
   if (screen === screens.RESULT && selectedLesson) {
     const percentage = Math.round((score / totalQuestions) * 100);
-    const successMessage = percentage >= 70 ? "Harika iş çıkardın!" : "Güzel başlangıç, tekrar deneyebilirsin.";
+    const successMessage = percentage >= 70 ? "Harika iş çıkardın!"  : "Güzel başlangıç, tekrar deneyebilirsin.";
 
     return (
       <AppShell>
